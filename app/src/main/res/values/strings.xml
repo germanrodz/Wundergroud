@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" parent="android:Theme.Material">Wunderground</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="units">Units</string>
+    <string-array name="planets_array">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
